@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "septoolacc",
+  "private_key_id": "f656da81002ac1e920d95576a8a598a43c30452e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDL90NNjC//FVRb\ns3WdntZNSvdkVab4INGQ8Rt0ge5Z62nLWa+G+dUp9PO75cHSzPOQ7gLtG/S7WnNJ\nVt3eh+yq7TxWpD/J898MIL/vOWwFWy/b1xW5h1a9Mk+HsFIm53QMJPAhypSG44/i\nvSG2XYSwvl+bYPIb7vOmDoU/jpY+5vq7HCj+EuJ6NZ+9VVNadlYWiTXGvMUX3geu\nZYuX/oC9qhFPrT42dnMMK4Ep8WUvfrov3kbk9HsZE/mf2XeVCO0ilsKytIHI6K15\nZziN/DwCOUlC2oq3ZIQRXy5dxh/LyZc4iuMPCkvxJrYNYKL+7zZ2DAzo8mo9USZq\nBBIhIipZAgMBAAECggEACWangXwup3vc3C/UrKPU43x1vqLRWVUZ6QD+mkt1faDY\nys34Gyk0vARVn5l4FOFBcLKntooNU6gC8aRsAYUTps/cchnhSXZQwjGtkbcnKsVd\n2qzP4YdCu4xawg73GmKcpK/8fseO5PtkIbfvRS/g8ncz15OLqoyZn6kXrIBD8zjZ\nJhlId8RmgWOUTq7LVlYHb10Wa13mcKTmOcz5OQpjxY6wu8MQgMEtdjEw03GV58lk\nh+pSirsEincVyn6paJRWVXtxKoShhd5uZuvI1YM48gBMMxkuWUguqhbSVL3gxRYZ\neiqvnMUwv04fCDvnIXh9+eZ6e93oYjajlrsiSCEZyQKBgQDnLC/shvylO0iNn+R3\n1WR+Pxzc95HZ2mGCCovXjlb50FIrbxdPX4Yj3uMrzUv7Kin8tikbIbvXqcUNnxcF\nLraPx3e2hfyWktFZa+Fbt8WaDUOB4JQ+xGHRm73m4bhD45AonxD6Re4VnMhDx+xc\nko0IU8O242IVGV2XBWO6oVPkKwKBgQDh3w8pVfYC5kVZVsBLWY/pzak3J0exkHvi\nII540ypBRHuxsJP9UaBmghb6vTnH64N+tNjXCW5f9iXwG0aqD0b8wb5g0Ic2bS6j\nxbIt3EEL2LfIHPILyGvY+CGcYlQ+FA0IMxXBDk+OCBPIHuYQETmalHyCWD8CIdSr\n7BuYQPlViwJ/b/j3PZokxePxQKgyAdla08u+L0m7W8prcJGrKr3HYzmEk4U7xTZ/\nwuAzKQRHyWCi9cVGI94zHkMdL3vfqqL1yq7TTZWYw1ZaEPYwMjzReczy5fXh2IVG\n3ECTu0GZ/0g6i3KAxrkYmV9XoX00/6H8rgvkwLFi0NV4f64coEmEWQKBgQDKtuji\njlWmsIfY8HTQq2bvzTZrW4OKp0On5NQ5ODuaLB5fkTygg1vT5Dk/fAiZlpODakea\nZsp6sW3HGpPHGML7Id79AOn5PPA457tMUXrHaQ84OFI7pPq11axEsDMvK8uuajrB\n81gO/szSNHkCPpNWWqGMUirqfPZj/hmeAeJElQKBgQDmGBbkuGrl7AFJNGbSK+ha\nQoAPM6SNmVZLhORF8UlNlqud7rpdXobOIjmROeTuouU89cfL1Xqelid96sOI3xkE\n0pEvXVAOdn7olC6hdNQAg3PBh+QPi3vJFkeKv1BgeO9qep/N0RyUlmdvKXWMi/Qy\n8MSDM7+6fzvDb4pqL+NR3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "septoolacc@septoolacc.iam.gserviceaccount.com",
+  "client_id": "107253161766531622071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/septoolacc%40septoolacc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
